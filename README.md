@@ -1,5 +1,5 @@
 # Exp-3-Divide-and-Conquer
-Divide and Conquer - Summary for Viva Preparation
+Divide and Conquer - 
 
 Definition:
 Divide and Conquer is an algorithmic paradigm that breaks a problem into smaller subproblems, solves them recursively, and combines the results to get the final solution.
