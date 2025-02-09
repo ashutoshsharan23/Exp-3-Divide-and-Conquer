@@ -40,4 +40,10 @@ T(n) = aT(n/b) + O(n^d)
 - **Case 1**: If \( d > \log_b a \), then **O(n^d)**  
 - **Case 2**: If \( d = \log_b a \), then **O(n^d \log n)**  
 - **Case 3**: If \( d < \log_b a \), then **O(n^{\log_b a})**  
-🚀
+These are the problem which are releated to Sorting-and-Searching are solved in the given expirement 🚀🚀🚀: -
+>> 1. Longest Nice Substring- https://leetcode.com/problems/maximum-depth-of-binary-tree/
+>>    
+>> 2. Max Subarray- https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+>> 
+>> 3. The Skyline Problem- https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+>>    
